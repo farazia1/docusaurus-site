@@ -1,5 +1,7 @@
 ---
-sidebar_label: '1. Introduction'
+# sidebar_label: '1. Introduction'
+slug: /humanoid-robotics-book/01-introduction
+title: Introduction
 ---
 
 # Chapter 1: An Introduction to Humanoid Robotics and Physical AI
